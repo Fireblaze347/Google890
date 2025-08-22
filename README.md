@@ -1,1 +1,1 @@
-
+[googol](google.com)
