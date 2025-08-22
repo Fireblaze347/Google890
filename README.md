@@ -1,2 +1,2 @@
 # Google890
-Google test at google.com
+Google test at (google)[google.com]
